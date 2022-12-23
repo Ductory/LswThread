@@ -1,5 +1,5 @@
 #LswThread - Made by Dangfer
-#功能：获取最爱春雷2021的全部帖子
+#功能：获取雷绍武的全部帖子
 import hashlib
 import requests
 import time
